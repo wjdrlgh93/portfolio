@@ -99,6 +99,9 @@
 >> - Skill : React.js
 >>
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-Front-
+>>
+>> 문제해결 경험 : 상태관리 (Redux/ Context API) :: 복잡한 컴포넌트 간 데이터 전달(Prop Drilling) <br>
+>>                문제를 Redux toolkit을 도입하여 전역 상태관리로 개선하고 유지보수성을 높였습니다
 <br />
 
 ## 2. 🏃‍♀️🏃‍♂️ 러닝크루 커뮤니티 & 숍 프로젝트 🏃‍♀️🏃‍♂️ ( FullStack )
@@ -118,7 +121,11 @@
 >> 🛠 CICD
 >> - Skill : Nginx, docker, AWS EC2
 >>
->> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-FullStack--
+>> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-FullStack-- <br>
+>>  문제해결 경험 : AWS EC2 배포문제 해결 및 접속문제 :: EC2 배포 후 포트 접근이 안되는 문제를 <br>
+>>  보안 그룹 인바운드 규칙 재설정을 통해 해결하고, 배포시 Vite+react의 docker-compose 가 일반 작성법과 조금 상이하였기 때문에
+>>  vite+react 를 쓸때의 docker-compose 작성법을 익히고 오류를 고쳐 배포하였음
+>>                
 <br />
 
 
