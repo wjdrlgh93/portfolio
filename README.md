@@ -100,7 +100,7 @@
 >>
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-Front-
 >>
->> 문제해결 경험 : 상태관리 (Redux/ Context API) :: 복잡한 컴포넌트 간 데이터 전달(Prop Drilling) <br>
+>> 🔥🔥 문제해결 경험 : 상태관리 (Redux/ Context API) :: 복잡한 컴포넌트 간 데이터 전달(Prop Drilling) <br>
 >>                문제를 Redux toolkit을 도입하여 전역 상태관리로 개선하고 유지보수성을 높였습니다 <br><br>
 >>  ![524056237-7f6b0aeb-3c2f-4f56-9c89-433175e174cf](https://github.com/user-attachments/assets/468c3d9b-9bd1-4115-93a4-5a7e03903f76) <br>
 >> *깃허브 관리<br>
@@ -128,7 +128,7 @@
 >> - Skill : Nginx, docker, AWS EC2
 >>
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-FullStack-- <br><br>
->>  문제해결 경험 : AWS EC2 배포문제 해결 및 접속문제 :: EC2 배포 후 포트 접근이 안되는 문제를 <br>
+>>  🔥🔥 문제해결 경험 : AWS EC2 배포문제 해결 및 접속문제 :: EC2 배포 후 포트 접근이 안되는 문제를 <br>
 >>  보안 그룹 인바운드 규칙 재설정을 통해 해결하고, 배포시 Vite+react의 docker-compose 가 일반 작성법과 조금 상이하였기 때문에
 >>  vite+react 를 쓸때의 docker-compose 작성법을 익히고 오류를 고쳐 배포하였음
 >>  ![524162819-ab1fbe61-44f7-40b0-a95a-d886eca0e531](https://github.com/user-attachments/assets/ec3e5381-6c79-4c29-a0df-f1b7f3fe06df)
