@@ -1,6 +1,7 @@
 <img width="1263" height="460" alt="image" src="https://github.com/user-attachments/assets/2e2f9327-244f-43e6-ac09-d5870ae99da4" />
 
-# 항상 진실성있고 성심성의것 책임감있게 맡은바 직무를 다하겠습니다 #
+# 항상 진실성있고 성심성의것 
+# 책임감있게 맡은바 직무를 다하겠습니다 #
 
 
 # 🎀정기호 포트폴리오🎀
