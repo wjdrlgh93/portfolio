@@ -133,7 +133,12 @@
 >>  vite+react 를 쓸때의 docker-compose 작성법을 익히고 오류를 고쳐 배포하였음
 >>  ![524162819-ab1fbe61-44f7-40b0-a95a-d886eca0e531](https://github.com/user-attachments/assets/ec3e5381-6c79-4c29-a0df-f1b7f3fe06df)
 >>  ![524160245-876923ba-ba8b-4c80-aea5-9d3cfe881fac](https://github.com/user-attachments/assets/17505b8c-c42e-49ab-a60b-961b5bb07f19)
->>  ![524159618-6af77dc5-c2b9-4533-a7fb-a3b894bc2c9c](https://github.com/user-attachments/assets/01d5d982-4470-44f0-b8c9-eaf3b88d7572)
+>>  ![524159618-6af77dc5-c2b9-4533-a7fb-a3b894bc2c9c](https://github.com/user-attachments/assets/01d5d982-4470-44f0-b8c9-eaf3b88d7572) <br><br><br>
+>> 아키텍처 다이어그램 <br>
+>> <img width="1280" height="720" alt="슬라이드8" src="https://github.com/user-attachments/assets/26d03f91-3c71-4c20-a716-321eeac3452c" /> <br>
+>> <img width="1280" height="720" alt="슬라이드9" src="https://github.com/user-attachments/assets/3b6f5386-ff1e-4f4c-b6d4-facbcd7adb62" />
+>> <img width="1280" height="720" alt="슬라이드10" src="https://github.com/user-attachments/assets/fe65bac5-a723-4aa0-bc42-c765874f4556" />
+
 
 <br />
 
