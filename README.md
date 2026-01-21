@@ -1,8 +1,5 @@
 <img width="1263" height="460" alt="image" src="https://github.com/user-attachments/assets/2e2f9327-244f-43e6-ac09-d5870ae99da4" /><br><br>
 
-
-<h2>항상 진실성있고 성심성의것 책임감있게 맡은바 직무를 다하겠습니다 </h2>
-
 # 🎀정기호 포트폴리오🎀
    > 정기호 / wjdrlgh93 의 깃허브 포트폴리오 페이지입니다<br>
 
@@ -141,6 +138,12 @@
 
 
 <br />
+
+
+맺음말 <br><br>
+
+<img width="1280" height="720" alt="슬라이드36" src="https://github.com/user-attachments/assets/891e6bab-5ba8-4a0a-805e-793fd289d771" />
+<img width="1280" height="720" alt="슬라이드37" src="https://github.com/user-attachments/assets/9cf7000b-4c88-4901-8278-9ed1bd3742dd" />
 
 
 
