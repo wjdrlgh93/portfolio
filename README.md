@@ -122,6 +122,7 @@
 >> - Skill : Nginx, docker, AWS EC2
 >>
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-FullStack-- <br>
+<br>
 >>  문제해결 경험 : AWS EC2 배포문제 해결 및 접속문제 :: EC2 배포 후 포트 접근이 안되는 문제를 <br>
 >>  보안 그룹 인바운드 규칙 재설정을 통해 해결하고, 배포시 Vite+react의 docker-compose 가 일반 작성법과 조금 상이하였기 때문에
 >>  vite+react 를 쓸때의 docker-compose 작성법을 익히고 오류를 고쳐 배포하였음
