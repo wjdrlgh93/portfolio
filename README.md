@@ -101,8 +101,14 @@
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/SmartOrderWebProject-Front-
 >>
 >> 문제해결 경험 : 상태관리 (Redux/ Context API) :: 복잡한 컴포넌트 간 데이터 전달(Prop Drilling) <br>
->>                문제를 Redux toolkit을 도입하여 전역 상태관리로 개선하고 유지보수성을 높였습니다
-<br />
+>>                문제를 Redux toolkit을 도입하여 전역 상태관리로 개선하고 유지보수성을 높였습니다 <br><br>
+>>  ![524056237-7f6b0aeb-3c2f-4f56-9c89-433175e174cf](https://github.com/user-attachments/assets/468c3d9b-9bd1-4115-93a4-5a7e03903f76) <br>
+>> *깃허브 관리<br>
+>> <img width="712" height="331" alt="524052236-add40502-b2cd-4cfd-8e08-efa48b1ff60e" src="https://github.com/user-attachments/assets/7fda8e19-ec04-41c9-bfb3-73344e464ffc" />
+
+<br><br><br>
+
+
 
 ## 2. 🏃‍♀️🏃‍♂️ 러닝크루 커뮤니티 & 숍 프로젝트 🏃‍♀️🏃‍♂️ ( FullStack )
 > 러닝크루 커뮤니티 
