@@ -131,8 +131,31 @@
 >> <img width="1280" height="720" alt="슬라이드9" src="https://github.com/user-attachments/assets/3b6f5386-ff1e-4f4c-b6d4-facbcd7adb62" />
 >> <img width="1280" height="720" alt="슬라이드10" src="https://github.com/user-attachments/assets/fe65bac5-a723-4aa0-bc42-c765874f4556" />
 
-
 <br />
+
+## 3.  👾 Next.js + TypeScript 를 사용한 산성비 게임
+
+> 타입스크립트 + Next.js 학습을 위한 미니 프로젝트 <br>
+> TypeScript로 게임을 작성하고 Next.js를 이용해서 화면에 보여주는 방식으로 작성함
+
+<br>
+
+ ## 👾👾👾 기획의도
+
+📈 기획의도 <br>
+- 단순한 정적 웹페이지를 넘어, Next.js의 렌더링 최적화와 TypeScript의 안정성을 게임 로직에 적용해보고자 했습니다. <br>
+- 텍스트가 떨어지는 애니메이션과 실시간 입력 판정, 스코어링 시스템을 구현하며 상태 관리(State Management) 능력과 <br>
+- 비동기 처리 역량을 강화하는 것을 목표로 했습니다. 또한, 별도의 설치 없이 웹 브라우저에서 즉시 실행 가능한 접근성 높은 웹 애플리케이션을 구축하고자 했습니다. <br>
+
+ ## 👾👾👾 프로젝트 프리뷰
+
+https://github.com/user-attachments/assets/c6a9b340-8f8d-426b-ad54-cbb67b4a5204
+
+> - 개발기간 : 2026.01.18 ~ 2026.01.23
+
+
+
+
 
 
 맺음말 <br><br>
