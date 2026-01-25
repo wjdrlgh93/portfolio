@@ -152,9 +152,12 @@
 https://github.com/user-attachments/assets/c6a9b340-8f8d-426b-ad54-cbb67b4a5204
 
 > - 개발기간 : 2026.01.18 ~ 2026.01.23
+> - 프로젝트 상세설명 :: [https://github.com/wjdrlgh93/SmartOrderWebProject-FullStack-- ](https://github.com/wjdrlgh93/sansungbi_game) <br><br>
 
 
 
+
+<br><br>
 
 
 
