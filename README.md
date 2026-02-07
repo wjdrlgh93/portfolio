@@ -134,7 +134,7 @@
 <br />
 
 ## [미니] 디스코드 자동 번역 봇 만들기 
-
+> 해당프로젝트 주소 : https://github.com/wjdrlgh93/bunnyTranslate
 > 자바학습을 위한 미니프로젝트 <br>
 > 자바와 Gradle 로 구성되어있으며<br/>
 > 작성 후 Oracle Cloud 로 배포 완료 및 작동중<br/>
