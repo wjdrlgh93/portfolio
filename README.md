@@ -148,7 +148,7 @@
 
 ##외부 API 연동 및 트러블 슈팅<br/>
 > -DeepL API v2 연동을 통한 실시간 번역 서비스 구현.<br/>
-> -Java 11+ HttpClient를 사용한 비동기/동기 통신 처리.<br/>
+> -Java 17 + HttpClient를 사용한 비동기/동기 통신 처리.<br/>
 > -트러블 슈팅 사례: DeepL API의 인증 방식이 Query Param에서 Header 방식으로 변경됨에 <br/>
 > -따른 403 Forbidden 에러를 분석하고, HTTP 요청 헤더를 수정하여 해결함. <br/>
 <img width="639" height="544" alt="image" src="https://github.com/user-attachments/assets/8f614837-b6cc-459a-aca7-ddf1687872d4" />
