@@ -133,7 +133,15 @@
 
 <br />
 
-## 3.  👾 Next.js + TypeScript 를 사용한 산성비 게임
+## [미니] 디스코드 자동 번역 봇 만들기 
+
+> 자바학습을 위한 미니프로젝트 <br>
+> 자바와 Gradle 로 구성되어있으며
+> 작성 후 Oracle Cloud 로 배포 완료 및 작동중
+> 
+
+
+## [미니]  👾 Next.js + TypeScript 를 사용한 산성비 게임
 
 > 타입스크립트 + Next.js 학습을 위한 미니 프로젝트 <br>
 > TypeScript로 게임을 작성하고 Next.js를 이용해서 화면에 보여주는 방식으로 작성함
