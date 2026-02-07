@@ -140,16 +140,16 @@
 > 작성 후 Oracle Cloud 로 배포 완료 및 작동중<br/>
 
 ## 클라우드 인프라 구축 및 배포 경험
--Oracle Cloud Infrastructure (OCI) 프리티어를 활용하여 리눅스(Ubuntu) 서버 구축.<br/>
--SSH/SCP를 활용한 원격 서버 접속 및 배포 파이프라인 수동 구축.<br/>
--VCN(가상 네트워크) 및 보안 목록(Security List) 설정을 통한 인바운드/아웃바운드 트래픽 제어 (방화벽 해제 경험).<br/>
--Linux screen 명령어를 활용한 백그라운드 프로세스 관리 및 무중단 서비스 운영.<br/>
+> -Oracle Cloud Infrastructure (OCI) 프리티어를 활용하여 리눅스(Ubuntu) 서버 구축.<br/>
+> -SSH/SCP를 활용한 원격 서버 접속 및 배포 파이프라인 수동 구축.<br/>
+> -VCN(가상 네트워크) 및 보안 목록(Security List) 설정을 통한 인바운드/아웃바운드 트래픽 제어 (방화벽 해제 경험).<br/>
+> -Linux screen 명령어를 활용한 백그라운드 프로세스 관리 및 무중단 서비스 운영.<br/>
 <br/>
 외부 API 연동 및 트러블 슈팅<br/>
--DeepL API v2 연동을 통한 실시간 번역 서비스 구현.<br/>
--Java 11+ HttpClient를 사용한 비동기/동기 통신 처리.<br/>
-- 트러블 슈팅 사례: DeepL API의 인증 방식이 Query Param에서 Header 방식으로 변경됨에 <br/>
--  따른 403 Forbidden 에러를 분석하고, HTTP 요청 헤더를 수정하여 해결함. <br/>
+> -DeepL API v2 연동을 통한 실시간 번역 서비스 구현.<br/>
+> -Java 11+ HttpClient를 사용한 비동기/동기 통신 처리.<br/>
+> - 트러블 슈팅 사례: DeepL API의 인증 방식이 Query Param에서 Header 방식으로 변경됨에 <br/>
+> -  따른 403 Forbidden 에러를 분석하고, HTTP 요청 헤더를 수정하여 해결함. <br/>
 <img width="639" height="544" alt="image" src="https://github.com/user-attachments/assets/8f614837-b6cc-459a-aca7-ddf1687872d4" />
 <img width="941" height="333" alt="546598624-51ff7621-9dd6-472a-b9ec-6a47675c75a2" src="https://github.com/user-attachments/assets/ea922991-ec9b-471e-8a88-8a69d67e52e8" />
 <img width="1541" height="721" alt="image" src="https://github.com/user-attachments/assets/7eac8fcb-24f1-4c80-b28d-0b3e06d37c64" />
