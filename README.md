@@ -152,6 +152,9 @@
 > -트러블 슈팅 사례: DeepL API의 인증 방식이 Query Param에서 Header 방식으로 변경됨에 <br/>
 > -따른 403 Forbidden 에러를 분석하고, HTTP 요청 헤더를 수정하여 해결함. <br/>
 
+ ## 프로젝트 프리뷰
+<img width="941" height="333" alt="546599747-ea922991-ec9b-471e-8a88-8a69d67e52e8" src="https://github.com/user-attachments/assets/0c7e5578-1f1f-4ca2-bd92-9fb2f582aff7" />
+<br/><br/>
 
 
 
