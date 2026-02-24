@@ -1,4 +1,5 @@
-<img width="1263" height="460" alt="PhotoshopExtension_Image" src="https://github.com/user-attachments/assets/926cf907-98eb-4e72-a18b-4c9849958d9b" />
+<img width="1263" height="330" alt="PhotoshopExtension_Image" src="https://github.com/user-attachments/assets/e4233740-000c-46de-8093-e53d6d40217e" />
+
 <br><br>
 
 # 🎀정기호 포트폴리오🎀
