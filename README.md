@@ -1,4 +1,5 @@
-<img width="1263" height="460" alt="image" src="https://github.com/user-attachments/assets/2e2f9327-244f-43e6-ac09-d5870ae99da4" /><br><br>
+<img width="1263" height="460" alt="PhotoshopExtension_Image" src="https://github.com/user-attachments/assets/926cf907-98eb-4e72-a18b-4c9849958d9b" />
+<br><br>
 
 # 🎀정기호 포트폴리오🎀
    > 정기호 / wjdrlgh93 의 깃허브 포트폴리오 페이지입니다<br>
