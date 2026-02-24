@@ -100,9 +100,7 @@
 >>CorePoolSize(2), MaxPoolSize(5) 등 스레드 개수를 제한하여 CPU 과부하 방지.<br>
 >> QueueCapacity(50)를 설정하여 메모리(RAM) 부족(OOM)으로 인한 서버 다운 예방.<br>
 >> CallerRunsPolicy를 적용하여 큐가 꽉 찼을 때도 작업이 유실되지 않고 순차적으로 처리되도록 안전장치 마련.<br>
-여기에 영상첨부<br><br><br>
-
-
+![ezgif-62de0bfd323015f7](https://github.com/user-attachments/assets/feb01e72-51c3-4366-94b3-89065ad30b55)<br><br><br>
 
 
 
