@@ -56,7 +56,8 @@
   </div>
 
 # Profile
-<img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/82ef661f-e243-4c82-9eff-51fd3371024e" />
+<img width="1280" height="720" alt="525674334-82ef661f-e243-4c82-9eff-51fd3371024e" src="https://github.com/user-attachments/assets/eee69bfb-0e37-4faf-b53a-17a2208d2b40" />
+
 
 # 🎶소개
   > 안녕하십니까! 언제나 성심성의 책임감을 다하는 정기호입니다! <br>
