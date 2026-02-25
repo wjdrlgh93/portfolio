@@ -95,13 +95,9 @@
 >>
 >> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/dayak_project
 >>
->> 🔥🔥  OAuth 2.0 인증 및 외부 API 연동 이슈, 비동기작업의 도입
->>                비동기(@Async) 도입: Spring의 @Async 어노테이션을 활용하여, 데이터 동기화 로직을 메인 요청 스레드가 아닌 별도의 백그라운드 스레드에서 처리하도록 구조 변경.<br>
->> 사용자는 요청 즉시 "작업 시작" 응답을 받아 타임아웃 문제 해결.<br>
->>커스텀 AsyncConfig 구현: 저사양 서버의 안정성을 위해 스프링 기본 실행자 대신 ThreadPoolTaskExecutor를 직접 설정.<br>
->>CorePoolSize(2), MaxPoolSize(5) 등 스레드 개수를 제한하여 CPU 과부하 방지.<br>
->> QueueCapacity(50)를 설정하여 메모리(RAM) 부족(OOM)으로 인한 서버 다운 예방.<br>
->> CallerRunsPolicy를 적용하여 큐가 꽉 찼을 때도 작업이 유실되지 않고 순차적으로 처리되도록 안전장치 마련.<br>
+>> 🔥🔥 문제해결 경험 :  OAuth 2.0 인증 및 외부 API 연동 이슈, 비동기작업의 도입<br>
+>> 자원 제약이 있는 배포 환경(OCI)을 고려하여, ThreadPool의 최대 크기를 제한하고 <br>
+>> CallerRunsPolicy를 적용함으로써 시스템 가용성과 데이터 처리의 안정성을 동시에 확보했습니다."<br>
 ![ezgif-62de0bfd323015f7](https://github.com/user-attachments/assets/feb01e72-51c3-4366-94b3-89065ad30b55)<br><br><br>
 
 
