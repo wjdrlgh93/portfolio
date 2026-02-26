@@ -93,7 +93,7 @@
 >> - Language : typeScript
 >> - Skill : Next.js
 >>
->> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/dayak_project
+>> 프로젝트 상세설명 :: https://github.com/wjdrlgh93/dayak_project_
 >>
 >> 🔥🔥 문제해결 경험 :  OAuth 2.0 인증 및 외부 API 연동 이슈, 비동기작업의 도입<br>
 >> 자원 제약이 있는 배포 환경(OCI)을 고려하여, ThreadPool의 최대 크기를 제한하고 <br>
